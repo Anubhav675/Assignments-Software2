@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b8a942b-dc7e-4170-b8ff-29de86089102" name="Changes" comment="completed 10">
+    <list default="true" id="3b8a942b-dc7e-4170-b8ff-29de86089102" name="Changes" comment="completed 12">
+      <change afterPath="$PROJECT_DIR$/Module 11/Assignment-11.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 11/Assignment-11.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,24 +44,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Assignment-9.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Assignment-9.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Assignment-9.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Assignment-9.4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Assignment-11.1.executor": "Run",
+    "Python.Assignment-11.2.executor": "Run",
+    "Python.Assignment-12.1.executor": "Run",
+    "Python.Assignment-12.2.executor": "Run",
+    "Python.Assignment-9.1.executor": "Run",
+    "Python.Assignment-9.2.executor": "Run",
+    "Python.Assignment-9.3.executor": "Run",
+    "Python.Assignment-9.4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/LOQ/PycharmProjects/Assignment-Software2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,6 +84,8 @@
       <updated>1762102208638</updated>
       <workItem from="1762102209682" duration="1989000" />
       <workItem from="1762154343314" duration="62000" />
+      <workItem from="1762466586883" duration="645000" />
+      <workItem from="1762719480452" duration="1891000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <option name="closed" value="true" />
@@ -102,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762119991139</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="completed 12">
+      <option name="closed" value="true" />
+      <created>1762466761252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762466761252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,11 +129,16 @@
     <MESSAGE value="create" />
     <MESSAGE value="completed" />
     <MESSAGE value="completed 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed 10" />
+    <MESSAGE value="completed 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed 12" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment_Software2$Assignment_12_2.coverage" NAME="Assignment-12.2 Coverage Results" MODIFIED="1762466713128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 12" />
+    <SUITE FILE_PATH="coverage/Assignment_Software2$Assignment_12_1.coverage" NAME="Assignment-12.1 Coverage Results" MODIFIED="1762466686034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 12" />
+    <SUITE FILE_PATH="coverage/Assignment_Software2$Assignment_11_1.coverage" NAME="Assignment-11.1 Coverage Results" MODIFIED="1762722187444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 11" />
     <SUITE FILE_PATH="coverage/Assignment_Software2$Assignment_9_3.coverage" NAME="Assignment-9.3 Coverage Results" MODIFIED="1762104555248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-9" />
     <SUITE FILE_PATH="coverage/Assignment_Software2$Assignment_9_1.coverage" NAME="Assignment-9.1 Coverage Results" MODIFIED="1762104517874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-9" />
+    <SUITE FILE_PATH="coverage/Assignment_Software2$Assignment_11_2.coverage" NAME="Assignment-11.2 Coverage Results" MODIFIED="1762722161390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 11" />
     <SUITE FILE_PATH="coverage/Assignment_Software2$Assignment_9_2.coverage" NAME="Assignment-9.2 Coverage Results" MODIFIED="1762104537354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-9" />
     <SUITE FILE_PATH="coverage/Assignment_Software2$Assignment_9_4.coverage" NAME="Assignment-9.4 Coverage Results" MODIFIED="1762104571575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module-9" />
   </component>
